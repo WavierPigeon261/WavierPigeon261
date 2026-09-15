@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=WavierPigeon261&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/WavierPigeon261)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wavierpigeon261&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&custom_title=Sourabh%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/WavierPigeon261)
 
 [![Streak Stats](https://streak-stats.demolab.com?user=WavierPigeon261&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com?user=WavierPigeon261)
 
