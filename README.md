@@ -101,8 +101,7 @@ A modern Android application for jewellery shop owners to track customer orders,
 
 </div>
 
----
-
+<!--
 ### 🛠 CodeForge
 <div align="left">
 
@@ -114,7 +113,7 @@ An open-source IDE for Android.
 [View Repository](https://github.com/WavierPigeon261/codeforge)
 
 </div>
-
+-->
 ---
 
 ## 📬 Social Media
@@ -129,9 +128,10 @@ An open-source IDE for Android.
 
 
 ---
-
+<!--
 <div align="center">
 
 *Built with ❤️ by Sourabh Shet*
 
 </div>   
+-->
