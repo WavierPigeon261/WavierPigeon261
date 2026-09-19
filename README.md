@@ -81,7 +81,7 @@ Custom search engine configuration and routing layer for the Spectre ecosystem. 
 [![Status](https://img.shields.io/badge/status-Active-yellow?style=for-the-badge)](https://github.com/WavierPigeon261/bettaai)
 [![AI](https://img.shields.io/badge/AI-Powered-ff69b4?style=for-the-badge)](https://github.com/WavierPigeon261/bettaai)
 
-⟨**One-line description of BettaAI here — what it does, who it's for, the core problem it solves.**⟩
+An AI built by me. Just bring in your own API key from OpenRouter and use it, nothing new!
 
 [View Repository](https://github.com/WavierPigeon261/bettaai)
 
