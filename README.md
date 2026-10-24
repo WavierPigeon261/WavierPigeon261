@@ -1,7 +1,7 @@
 <div align="center">
 
 # Sourabh Shet
-## WavierPigeon261
+### *aka* WavierPigeon261
 
 #### *Student & Developer*
 
